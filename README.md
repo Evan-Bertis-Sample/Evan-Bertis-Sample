@@ -8,7 +8,7 @@
   </a>
 </div>
 
-I'm a BS/MS student studying Computer Science at Northwestern University
+I'm a BS/MS student studying Computer Science at Northwestern University.
 * ⌨️ I love developing video games, creating software tools, and writing firmware.
 * 🚗 I am on Northwestern's Formula Team, where I work on the Data Aquisition Subteam.
 * 🎨 In my freetime, I enjoy creating art and powerlifting.
@@ -41,9 +41,10 @@ Right now, I'm working on a tool called Dianode, a tool that promises writers th
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="nodejs" alt="nodejs" width="40" height="40"/>&nbsp;
 </div>
 
+<!---
 ---
-
 ### 🔥 My Stats 🔥
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Evan-Bertis-Sample&theme=dark)](https://git.io/streak-stats)
 <br/><br/>
 [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Evan-Bertis-Sample&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+-->
