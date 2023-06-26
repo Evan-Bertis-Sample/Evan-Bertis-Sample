@@ -1,4 +1,4 @@
-### 👋 Kumusta Ka! 👋
+# 👋 Kumusta Ka! 👋
 <div id="badges">
   <a href="https://www.linkedin.com/in/evan-bertis-sample-1987901bb/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -8,22 +8,22 @@
   </a>
 </div>
 
+###
+
 I'm a BS/MS student studying Computer Science at Northwestern University.
 * ⌨️ I love developing video games, creating software tools, and writing firmware.
 * 🚗 I am on Northwestern's Formula Team, where I work on the Data Aquisition Subteam.
 * 🎨 In my freetime, I enjoy creating art and powerlifting.
 
----
 
-### 🚧 Current Projects 🚧
+## 🚧 Current Projects 🚧
 
 Right now, I'm working on a tool called Dianode, a tool that promises writers the ability to easily write interactive narratives with characters that are knowledgable of their surroundings. Dianode is being developed in C++, and currently boasts an easy-to-use API that can be used in most programming languages, and a node-based GUI. Check it out!
 * [Dianode Editor](https://github.com/Evan-Bertis-Sample/Dianode-Editor): The node-based editor built using Dear Imgui, SDL2, and other related technologies.
 * [Dialogue Driver](https://github.com/Evan-Bertis-Sample/Dialogue-Driver): The open-source libary that powers Dianode.
 
----
 
-### 🛠️ Tools and Technologies 🛠️
+## 🛠️ Tools and Technologies 🛠️
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="cplusplus" alt="cplusplus" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="csharp" alt="csharp" width="40" height="40"/>&nbsp;
