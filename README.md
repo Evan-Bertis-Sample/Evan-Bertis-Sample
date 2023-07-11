@@ -18,8 +18,10 @@ I'm a BS/MS student studying Computer Science at Northwestern University.
 
 ## 🚧 Current Projects 🚧
 
-Right now, I'm working on a tool called Dianode, a tool that promises writers the ability to easily write interactive narratives with characters that are knowledgable of their surroundings. Dianode is being developed in C++, and currently boasts an easy-to-use API that can be used in most programming languages, and a node-based GUI. Check it out!
-* [Dianode Editor](https://github.com/Evan-Bertis-Sample/Dianode-Editor): The node-based editor built using Dear Imgui, SDL2, and other related technologies.
+Currently, I am working as QA Lead and game developer at [Overture Games](https://www.overture.games/). We are preparing to release the indie studio's first commerical release, Intervallic, a game that makes learning instruments fun!
+
+Outside of Overture, I'm working on a tool called Dianode, a tool that promises writers the ability to easily write interactive narratives with characters that are knowledgable of their surroundings. Dianode is being developed in C++, and currently boasts an easy-to-use API that can be used in most programming languages, and a node-based GUI. Check it out!
+* [Dianode Editor](https://github.com/Evan-Bertis-Sample/Dianode-Editor): The node-based editor built using Dear Imgui, SDL2, OpenGL, and other related technologies.
 * [Dialogue Driver](https://github.com/Evan-Bertis-Sample/Dialogue-Driver): The open-source libary that powers Dianode.
 
 
