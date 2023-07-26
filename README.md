@@ -13,6 +13,7 @@
 I'm a BS/MS student studying Computer Science at Northwestern University.
 * ⌨️ I love developing video games, creating software tools, and writing firmware.
 * 🚗 I am on Northwestern's Formula Team, where I work on the Data Aquisition Subteam.
+* 🎮 I am a Full Stack Game Developer at Overture Games.
 * 🎨 In my freetime, I enjoy creating art and powerlifting.
 
 
