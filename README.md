@@ -10,7 +10,7 @@
 
 ###
 
-I'm a BS/MS student studying Computer Science at Northwestern University.
+I'm a student studying Computer Science at Northwestern University.
 * ⌨️ I love developing video games, creating software tools, and writing firmware.
 * 🚗 I am on Northwestern's Formula Team, where I work on the Data Aquisition Subteam.
 * 🎮 I am a Full Stack Game Developer at Overture Games.
@@ -21,9 +21,7 @@ I'm a BS/MS student studying Computer Science at Northwestern University.
 
 Currently, I am working as QA Lead and game developer at [Overture Games](https://www.overture.games/). We are preparing to release the indie studio's first commerical release, Intervallic, a game that makes learning instruments fun!
 
-Outside of Overture, I'm working on a tool called Dianode, a tool that promises writers the ability to easily write interactive narratives with characters that are knowledgable of their surroundings. Dianode is being developed in C++, and currently boasts an easy-to-use API that can be used in most programming languages, and a node-based GUI. Check it out!
-* [Dianode Editor](https://github.com/Evan-Bertis-Sample/Dianode-Editor): The node-based editor built using Dear Imgui, SDL2, OpenGL, and other related technologies.
-* [Dialogue Driver](https://github.com/Evan-Bertis-Sample/Dialogue-Driver): The open-source libary that powers Dianode.
+Outside of Overture, I'm working on a lightweight framework/template for the Unity Game Engine, called [Curly](https://github.com/Evan-Bertis-Sample/Curly). Curly promises to make building small to medium-sized games easy, while promoting a solid architecture. 
 
 ## 🛠️ Tools and Technologies 🛠️
 
