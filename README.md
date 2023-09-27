@@ -20,7 +20,8 @@ I'm a student studying Computer Science at Northwestern University's McCormick S
 * ⌨️ I love developing video games, creating software tools, and writing firmware.
 * 🚗 I am on Northwestern's Formula Team, where I work on the Data Aquisition Subteam.
 * 🎮 I am a Full Stack Game Developer at Overture Games.
-* 🎨 In my freetime, I enjoy creating art and powerlifting.
+* 👨‍🔬 I am a web developer at Northwestern's CCL Lab, where I aid in the development of Morfli, a learning enviornment for Material Science.
+* 🎨 In my freetime, I enjoy creating art and powerlifting (S:375, B:255, D:455).
 
 ## 🚧 Current Projects 🚧
 
