@@ -1,5 +1,7 @@
 <div id="Header & Badges" align="center">
   <h1>👋 Kumusta Ka! 👋 </h1>
+
+  <img src="images/banner.jpg" style="border-radius:10px;">
   
   <a href="https://www.linkedin.com/in/evan-bertis-sample-1987901bb/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
