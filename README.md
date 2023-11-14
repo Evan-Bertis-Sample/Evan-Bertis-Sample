@@ -19,15 +19,14 @@
 I'm a student studying Computer Science at Northwestern University's McCormick School of Engineering and Applied Science.
 * ⌨️ I love developing video games, creating software tools, and writing firmware.
 * 🚗 I am on Northwestern's Formula Team, where I work on the Data Aquisition Subteam.
-* 🎮 I am a Full Stack Game Developer at Overture Games.
 * 👨‍🔬 I am a web developer at Northwestern's CCL Lab, where I aid in the development of Morfli, a learning enviornment for Material Science.
 * 🎨 In my freetime, I enjoy creating art and powerlifting (S:375, B:255, D:455).
 
 ## 🚧 Current Projects 🚧
-
-Currently, I am working as QA Lead and game developer at [Overture Games](https://www.overture.games/). We are preparing to release the indie studio's first commerical release, Intervallic, a game that makes learning instruments fun!
-
-Outside of Overture, I'm working on a lightweight framework/template for the Unity Game Engine, called [Curly](https://github.com/Evan-Bertis-Sample/Curly). Curly promises to make building small to medium-sized games easy, while promoting a solid architecture. 
+Outside of school and work, I spend my freetime working on:
+* ➰ [Curly](https://github.com/Evan-Bertis-Sample/Curly) : A lightweight Unity framework that provides foundational game-development systems, whilst pushing for a loosely-coupled code architecture.
+* 📂 [DAQ-Serializer](https://github.com/NU-Formula-Racing/daq-serializer-24) : A serialization protocol and library intended to use in Northwestern's Formula Car's data-relay systems, with the objective of minimizing data bloat and maximizing flexibility.
+* 🍂 [Lost In Leaves](https://github.com/Evan-Bertis-Sample/cs376-lost-in-leaves) : A cozy puzzle game being developed in Unity with the use of Curly.
 
 ## 🛠️ Tools and Technologies 🛠️
 
