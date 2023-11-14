@@ -1,6 +1,8 @@
 <div id="Header & Badges" align="center">
 
-  <img src="images/banner.jpg">
+  <img src="images/banner.jpg" alt="Banner: Says 'oh hey dude'">
+
+  <h1>👋 Kumasta Ka! 👋</h1>
   
   <a href="https://www.linkedin.com/in/evan-bertis-sample-1987901bb/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -15,7 +17,7 @@
   </a>
 </div>
 
-##
+###
 
 I'm a student studying Computer Science at Northwestern University's McCormick School of Engineering and Applied Science.
 * ⌨️ I love developing video games, creating software tools, and writing firmware.
