@@ -24,17 +24,14 @@ I'm a student studying Computer Science at Northwestern University's McCormick S
 * ⌨️ I love developing video games, creating software tools, and writing firmware.
 * 🚗 I am on Northwestern's Formula Team, where I work on the Data Aquisition Subteam.
 * 👨‍🔬 I am a web developer at Northwestern's CCL Lab, where I aid in the development of Morfli, a learning enviornment for Material Science.
+* 🔺 My favorite field of programming is graphics programming, particularly stylized rendering.
+* 🪄 Currently training to become a shader wizzard by reading the forbidden texts of graphics programming (the openGL api).
 * 🎨 In my freetime, I enjoy creating art and powerlifting (S:385, B:265, D:455).
-
-## 🚧 Current Projects 🚧
-Outside of school and work, I spend my freetime working on:
-* ➰ [Curly](https://github.com/Evan-Bertis-Sample/Curly) : A lightweight Unity framework that provides foundational game-development systems, whilst pushing for a loosely-coupled code architecture.
-* 📂 [DAQ-Serializer](https://github.com/NU-Formula-Racing/daq-serializer-24) : A serialization protocol and library intended to use in Northwestern's Formula Car's data-relay systems, with the objective of minimizing data bloat and maximizing flexibility.
 
 ## 🛠️ Tools and Technologies 🛠️
 
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=cs,unity,cpp,cmake,arduino,matlab,python,blender,illustrator,photoshop,html,css,js,vue,latex&theme=dark"/>
-    <img src="https://skillicons.dev/icons?i=mysql,sqlite,django,aws,markdown,figma&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=cs,unity,c,cpp,cmake,arduino,matlab,python,blender,illustrator,photoshop&theme=dark"/>
+    <img src="https://skillicons.dev/icons?i=html,css,js,latex,mysql,sqlite,django,htmx,aws,markdown,figma&theme=dark"/>
 </div>
 
