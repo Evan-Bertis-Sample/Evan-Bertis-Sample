@@ -26,7 +26,7 @@ I'm a student studying Computer Science at Northwestern University's McCormick S
 * 👨‍🔬 I am a web developer at Northwestern's CCL Lab, where I aid in the development of Morfli, a learning enviornment for Material Science.
 * 🔺 My favorite field of programming is graphics programming, particularly stylized rendering.
 * 🪄 Currently training to become a shader wizzard by reading the forbidden texts of graphics programming (the openGL api).
-* 🎨 In my freetime, I enjoy creating art and powerlifting (S:385, B:265, D:455).
+* 🎨 In my freetime, I enjoy creating art and powerlifting (S:385, B:265, D:495).
 
 ## 🛠️ Tools and Technologies 🛠️
 
