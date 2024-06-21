@@ -22,10 +22,9 @@
 
 I'm a student studying Computer Science at Northwestern University's McCormick School of Engineering and Applied Science.
 * ⌨️ I love developing video games, creating software tools, and writing firmware.
-* 🚗 I am on Northwestern's Formula Team, where I work on the Data Aquisition Subteam.
-* 👨‍🔬 I am a web developer at Northwestern's CCL Lab, where I aid in the development of Morfli, a learning enviornment for Material Science.
+* 🚗 I am on Northwestern's Formula Team, where I am the Data Acquisition (DAQ) Team Lead.
+* 🌊 I am currently working with Prof. Ozge Samanci to build an interactive art exhibit about microplastics in the ocean.
 * 🔺 My favorite field of programming is graphics programming, particularly stylized rendering.
-* 🪄 Currently training to become a shader wizzard by reading the forbidden texts of graphics programming (the openGL api).
 * 🎨 In my freetime, I enjoy creating art and powerlifting (S:385, B:265, D:495).
 
 ## 🛠️ Tools and Technologies 🛠️
