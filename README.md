@@ -25,7 +25,7 @@ I'm a student studying Computer Science at Northwestern University's McCormick S
 * 🚗 I am on Northwestern's Formula Team, where I am the Data Acquisition (DAQ) Team Lead.
 * 🌊 I am currently working with Prof. Ozge Samanci to build an interactive art exhibit about microplastics in the ocean.
 * 🔺 My favorite field of programming is graphics programming, particularly stylized rendering.
-* 🎨 In my freetime, I enjoy creating art and powerlifting (S:385, B:265, D:495).
+* 🎨 In my freetime, I enjoy creating art and powerlifting (S:385, B:275, D:495).
 
 ## 🛠️ Tools and Technologies 🛠️
 
